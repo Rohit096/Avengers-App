@@ -1,5 +1,3 @@
-package com.example.user.swiperdiaper;
-
 import android.support.v4.view.GestureDetectorCompat;
 import android.support.v7.app.AppCompatActivity;
 
