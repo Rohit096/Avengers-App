@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity implements GestureDetector.O
                 }
         );
 
-         TextView tv = (TextView)findViewById(R.id.tv);
+        tv = (TextView)findViewById(R.id.tv);
         this.gestureDetector= new GestureDetectorCompat(this,this);
         gestureDetector.setOnDoubleTapListener(this);
     }
